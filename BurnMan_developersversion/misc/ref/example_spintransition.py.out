@@ -1,0 +1,8 @@
+Calculations are done for:
+HelperSpinTransition:
+  'burnman.minerals.Murakami_etal_2012.fe_periclase_LS'
+  'burnman.minerals.Murakami_etal_2012.fe_periclase_HS'
+Calculations are done for:
+HelperSpinTransition:
+  'burnman.minerals.other.Speziale_fe_periclase_LS'
+  'burnman.minerals.other.Speziale_fe_periclase_HS'
